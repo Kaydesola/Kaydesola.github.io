@@ -11,7 +11,7 @@ last_name: Adeniji
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -44,20 +44,21 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-0876-7997
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human Anatomy
+  - Embryology
+  - Developmental Neurobiology
+  - Neuroscience
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Human Anatomy
+    institution: University of Ibadan
+    date_start: 2021-04-01
+    date_end: 2023-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof O.O Ogundoyin. Presented paper at 5th National Academy Of Science Conference with the contributions being published in Journal of Anatomy.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kehinde Oluwaseyi Adeniji is a PhD student in the Neurobiology program at the Department of Anatomy at the University of Ibadan. Her research interests include human anatomy, embryology, developmental neurobiology, neuroscience.
